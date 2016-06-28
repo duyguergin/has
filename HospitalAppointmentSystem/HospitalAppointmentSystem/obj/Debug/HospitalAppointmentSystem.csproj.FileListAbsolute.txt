@@ -1,0 +1,6 @@
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\HospitalAppointmentSystem.dll.config
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\HospitalAppointmentSystem.dll
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\bin\HospitalAppointmentSystem.pdb
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.csprojResolveAssemblyReference.cache
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.dll
+c:\users\temp.cse.027\documents\visual studio 2013\Projects\HospitalAppointmentSystem\HospitalAppointmentSystem\obj\Debug\HospitalAppointmentSystem.pdb
