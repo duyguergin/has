@@ -5,7 +5,7 @@
 <strong> Muhammed Bilal Kutlu <br>
 Didar Tutarlı <br>
 Dilara Tutarlı <br>
-Duygun Ergin
+Duygu Ergin
 </strong>
 
 <code> feel free to fork! </code>
